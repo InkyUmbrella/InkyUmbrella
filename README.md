@@ -1,4 +1,4 @@
-# 👋Hello! My mane is InkyUmbrella :umbrella:
+# 👋Hello! My name is InkyUmbrella :umbrella:
 
 I'm a Big Data Technology student in Ocean University of China (中国海洋大学,OUC) 🎓,a member of [IT Studio](https://wiki.itstudio.club/wiki/about/intro.html), which is a famous club of computer technology of OUC.
 
