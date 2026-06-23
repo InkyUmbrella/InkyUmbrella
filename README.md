@@ -1,6 +1,6 @@
 # 👋Hello! My name is InkyUmbrella :umbrella:
 
-I'm a Big Data Technology student in Ocean University of China (中国海洋大学,OUC) 🎓,a member of [IT Studio](https://wiki.itstudio.club/wiki/about/intro.html), which is a famous club of computer technology of OUC.
+I'm a Big Data Technology student in [Ocean University of China (中国海洋大学,OUC)](https://en.wikipedia.org/wiki/Ocean_University_of_China) 🎓,a member of [IT Studio](https://wiki.itstudio.club/wiki/about/intro.html), which is a famous club of computer technology of OUC.
 
 I come from Qingdao,Shandong province of China.
 I enjoy using technology to solve real-world problems,and I am also continuously learning and building valuable projects.
